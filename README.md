@@ -42,11 +42,11 @@ This is a template for a SaaS (Software as a Service) backend project built with
 Clone the repository
 
 ```bash
-git clone https://github.com/VenkatMastercoder/SaaS-Backend-Starter-Template
+git clone https://github.com/your-username/your-saas-backend.git
 ```
 
 ```bash
-cd SaaS-Backend-Starter-Template
+cd your-saas-backend
 ```
 
 Docker Setup
